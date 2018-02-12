@@ -8,4 +8,6 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Has to be deployed by next January.
+
 ## How to Contribute
