@@ -11,3 +11,6 @@ Sample website with plenty of files for demos
 Has to be deployed by next January.
 
 ## How to Contribute
+Make your changes by cloning the file.
+
+## Close
